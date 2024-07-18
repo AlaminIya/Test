@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "user",
-    "slug": "scidar-app",
+    "slug": "scidar-user",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -38,7 +38,7 @@
         "origin": false
       },
       "eas": {
-        "projectId": "87b5f3aa-788c-45aa-9d85-bb42903de4d5"
+        "projectId": "1e202379-51da-4528-bcea-85efd116821e"
       }
     },
     "owner": "thealamina"
